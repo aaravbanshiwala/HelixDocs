@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
+  "theme": "maple",
   "name": "Helix - Self-hosted CMS",
   "colors": {
     "primary": "#8B5CF6",
