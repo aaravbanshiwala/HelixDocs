@@ -1,13 +1,13 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Helix - Self-hosted CMS",
   "colors": {
     "primary": "#8B5CF6",
     "light": "#A78BFA",
     "dark": "#7C3AED"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/logo/helix.png",
   "navigation": {
     "tabs": [
       {
@@ -71,38 +71,33 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
           "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
+          "href": "https://discord.refinedev.xyz",
+          "icon": "discord"
         },
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
+          "anchor": "Resources",
+          "href": "https://refinedev.xyz/resources/",
           "icon": "newspaper"
         }
       ]
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/helix.png",
+    "dark": "/logo/helix.png"
   },
   "navbar": {
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "https://discord.refinedev.xyz"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "License Panel",
+      "href": "https://vanity.rip"
     }
   },
   "contextual": {
@@ -119,9 +114,9 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "website": "https://refinedev.xyz",
+      "github": "https://github.com/RefineDevelopment",
+      "discord": "https://discord.refinedev.xyz"
     }
   }
 }
