@@ -7,7 +7,6 @@
     "light": "#A78BFA",
     "dark": "#7C3AED"
   },
-  "favicon": "/logo/helix2.png",
   "navigation": {
     "tabs": [
       {
@@ -82,10 +81,6 @@
         }
       ]
     }
-  },
-  "logo": {
-    "light": "/logo/helix2.png",
-    "dark": "/logo/helix2.png"
   },
   "navbar": {
     "links": [
